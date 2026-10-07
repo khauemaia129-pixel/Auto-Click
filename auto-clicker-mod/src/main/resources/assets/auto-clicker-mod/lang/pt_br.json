@@ -1,0 +1,11 @@
+{
+  "key.auto-clicker-mod.toggle": "Ativar/Desativar Auto Clicker",
+  "key.auto-clicker-mod.config": "Abrir Configuração do Auto Clicker",
+  "category.auto-clicker-mod": "Auto Clicker Mod",
+  "text.auto-clicker-mod.distance": "Distância: ",
+  "text.auto-clicker-mod.speed": "Velocidade: ",
+  "text.auto-clicker-mod.hold_key": "Manter Tecla Pressionada",
+  "text.auto-clicker-mod.key": "Tecla: ",
+  "text.auto-clicker-mod.blocks": " blocos",
+  "text.auto-clicker-mod.ticks": " ticks"
+}

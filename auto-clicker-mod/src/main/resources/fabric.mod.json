@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "auto-clicker-mod",
+  "version": "${version}",
+  "name": "Auto Clicker Mod",
+  "description": "Auto clicker que permite escolher qual mob reagir",
+  "authors": [
+    "Eric"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/auto-clicker-mod/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.eric.mods.AutoClickerMod"
+    ],
+    "client": [
+      "com.eric.mods.AutoClickerModClient"
+    ]
+  },
+  "mixins": [
+    "auto-clicker-mod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "1.21.1"
+  }
+}
